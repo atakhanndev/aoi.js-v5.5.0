@@ -1,5 +1,8 @@
 const aoijs = require("aoi.js")
-
+const app = require("express")();
+const aoijs = require("aoi.js");
+const Database = require("@replit/database");
+const db = new Database();
 app.get("/",(req,res) => {
   res.send("AtakhaNN")
 }).listen(8080, () => {
