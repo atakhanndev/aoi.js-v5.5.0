@@ -28,6 +28,6 @@ Botu Replit'te Çalıştırmak İçin;
 - [![Replite aktar](https://repl.it/badge/github/atakhanndev/aoi.js-v5)](https://repl.it/github/atakhanndev/aoi.js-v5)
 
 
-## Destek
+## Destek
 
 [AtâkhaNN#9614](https://discord.com/users/396935680653262849)
