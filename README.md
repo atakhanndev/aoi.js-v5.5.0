@@ -30,6 +30,6 @@ Botu Replit'te Çalıştırmak İçin;
 
 ## Destek
 
-[AtâkhaNN#9614](https://discord.com/users/396935680653262849)
-[Arena](https://discord.gg/QRvpC42DZC)
+- [AtâkhaNN#9614](https://discord.com/users/396935680653262849)
+- [Arena](https://discord.gg/QRvpC42DZC)
 
