@@ -4,7 +4,10 @@ const bot = new aoijs.Bot({
 token: "token",
 prefix: "prefix",
 intents: ["GUILDS", "GUILD_MESSAGES"]
-})
+});
+.
+const loader = new aoijs.LoadCommands(bot)
+ loader.load(bot.cmd,"./komutlar/")
 
 bot.onMessage()
 
